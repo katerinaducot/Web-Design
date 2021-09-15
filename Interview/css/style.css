@@ -7,7 +7,7 @@ html {
     box-sizing: inherit;
   }
   
-  
+
   body {
     margin: 1rem;
     font-family: sans-serif;
@@ -16,11 +16,5 @@ html {
     background-color:#f28282;
   }
   
-
-  img,
-  video {
-    height: auto;
-    max-width: 100%;
-  }
   
 
