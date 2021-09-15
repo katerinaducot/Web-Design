@@ -15,6 +15,11 @@ html {
     color:#ffffff;
     background-color: rgb(241, 178, 188);
   }
+  img,
+video {
+  height: auto;
+  max-width: 100%;
+}
   
   
 
