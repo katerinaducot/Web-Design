@@ -10,7 +10,7 @@ html {
 
   body {
     margin: 1rem;
-    font-family: sans-serif;
+    font-family: monospace;
     line-height: 1.5;
     color:#ffffff;
     background-color: rgb(241, 178, 188);
@@ -20,6 +20,7 @@ html {
 video {
   height: auto;
   max-width: 100%;
+
 }
   
   
