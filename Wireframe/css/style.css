@@ -25,6 +25,10 @@ footer {
 .right-sidebar {
   background: forestgreen;
 }
+.container {
+  display: flex;
+  flex-direction: column;
+}
 @media all and (min-width: 768px) {
   .container {
       flex-direction: row;
