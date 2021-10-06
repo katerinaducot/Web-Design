@@ -2,7 +2,7 @@ body {
   font-family: Garamond, serif;
   color:#ffffff;
   text-align: center;
-  font-size: 300 em;
+  font-size: 300 px;
 }
 .parent {
   display: grid;
