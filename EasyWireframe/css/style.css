@@ -7,7 +7,7 @@ body {
 .parent {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(6, 1fr);
+  grid-template-rows: repeat(5, 1fr);
   
 }
 .parent > div{
@@ -18,12 +18,12 @@ body {
 .footer {
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(6, 1fr);
+  grid-template-rows: 1fr;
   
 }
 .footer > div{
   display: grid;
-  padding: 70px;
+  padding: 40px;
   justify-content: center;
 } 
   .div1 { 

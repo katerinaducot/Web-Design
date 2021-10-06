@@ -7,9 +7,7 @@ body {
 .parent {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(6, 1fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
+  grid-template-rows: repeat(5, 1fr);
 }
 .parent > div{
   display: grid;
@@ -19,14 +17,12 @@ body {
 } 
 .footer {
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(6, 1fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr;
 }
 .footer > div{
   display: grid;
-  padding: 50px;
+  padding: 25px;
   border-left: 10px solid #ffaa10;
   border-top: 10px solid #ffaa10;
 } 
