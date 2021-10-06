@@ -18,57 +18,58 @@ body {
   grid-column-gap: 0px;
   grid-row-gap: 0px;
   padding: 20px;
+  border: 10px solid #ffaa10;
 } 
   .div1 { 
     grid-area: 1 / 1 / 2 / 5;
-    background-color: blue;
+    background-color: #3d4bf4;
   }
   .div2 { 
     grid-area: 1 / 5 / 2 / 9;
-    background-color: orange;
+    background-color: #7be7f1;
   }
   .div3 { 
     grid-area: 1 / 9 / 2 / 13;
-    background-color: yellow;
+    background-color: #3d4bf4;
   }
   .div4 { 
     grid-area: 2 / 1 / 3 / 11; 
-    background-color: lightblue;
+    background-color: #e8c4a0;
   }
   .div5 { 
     grid-area: 2 / 11 / 3 / 13; 
-    background-color: blue;
+    background-color: #e9ad23;
   }
   .div6 { 
     grid-area: 3 / 1 / 4 / 9; 
-    background-color: orange;
+    background-color: #3d4bf4;
   }
   .div7 { 
     grid-area: 3 / 9 / 5 / 13; 
-    background-color: yellow; 
+    background-color: #7be7f1; 
   }
   .div8 { 
     grid-area: 4 / 1 / 5 / 9;
-    background-color: orange; 
+    background-color: #eaad21; 
   }
   .div9 { 
     grid-area: 5 / 1 / 6 / 4; 
-    background-color: lightblue;
+    background-color: #3d4bf4;
   }
   .div10 { 
     grid-area: 5 / 4 / 6 / 7; 
-    background-color: blue;
+    background-color: #7be7f1;
   }
   .div11 { 
     grid-area: 5 / 7 / 6 / 10; 
-    background-color: blue;
+    background-color: #3d4bf4;
   }
   .div12 { 
     grid-area: 5 / 10 / 6 / 13; 
-    background-color: blue;
+    background-color: #eaad21;
   }
   .div13 { 
     grid-area: 6 / 1 / 7 / 13; 
-    background-color: blue;
+    background-color: #e8c4a0;
   }
 
