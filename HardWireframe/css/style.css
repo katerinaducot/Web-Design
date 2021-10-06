@@ -2,7 +2,7 @@ body {
   font-family: Courier;
   color:#ffffff;
   text-align: center;
-  font-size: 300 px;
+  font-size: 20px;
 }
 .parent {
   display: grid;
@@ -13,11 +13,7 @@ body {
 }
 .parent > div{
   display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-template-rows: repeat(6, 1fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
-  padding: 20px;
+  padding: 100px;
   border: 10px solid #ffaa10;
 } 
   .div1 { 
