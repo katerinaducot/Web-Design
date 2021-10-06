@@ -8,12 +8,22 @@ body {
   display: grid;
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(6, 1fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
+  
 }
 .parent > div{
   display: grid;
   padding: 150px;
+  justify-content: center;
+} 
+.footer {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(6, 1fr);
+  
+}
+.footer > div{
+  display: grid;
+  padding: 70px;
   justify-content: center;
 } 
   .div1 { 
@@ -53,7 +63,7 @@ body {
     background-color: #67bbb2;
   }
   .div10 { 
-    grid-area: 6 / 1 / 7 / 13; 
+    grid-area: 1; 
     background-color: #0092ff;
   }
 
