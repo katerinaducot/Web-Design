@@ -1,5 +1,5 @@
 body {
-  font-family: Garamond, serif;
+  font-family: Courier;
   color:#ffffff;
   font-size: 300 px;
   justify-content: center;
@@ -17,7 +17,7 @@ body {
   grid-template-rows: repeat(6, 1fr);
   grid-column-gap: 0px;
   grid-row-gap: 0px;
-  padding: 20px;
+  padding: 30px;
   justify-content: center;
 } 
   .div1 { 
