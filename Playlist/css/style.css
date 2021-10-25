@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+    font-size: 20px;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+
+  body {
+    margin: 1rem;
+    font-family: Garamond, serif;
+    line-height: 1.5;
+    color:#ffffff;
+    background-color: rgb(241, 178, 188);
+  }
+  
+  img,
+video {
+  height: auto;
+  max-width: 100%;
+
+}
+  
+  
+
