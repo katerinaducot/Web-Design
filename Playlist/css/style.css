@@ -38,6 +38,7 @@ video {
       padding: 16px 18px;
       text-decoration: none;
       font-size: 30px;
+      letter-spacing: 3px;
     }
     
     .topnav a:hover {
@@ -52,7 +53,13 @@ video {
   
     .table {
       color: white;
-      font-family: Berlin Sans FB;
-      font-size: 40px;
+      font-family: Bahnschrift;
+      font-size: 20px;
+    }
+
+    .header {
+      letter-spacing: 5px;
       text-align: center;
+      background-color: #D82F64;
+      padding: 10px;
     }
