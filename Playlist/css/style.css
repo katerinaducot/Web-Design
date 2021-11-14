@@ -63,3 +63,11 @@ video {
       background-color: #D82F64;
       padding: 10px;
     }
+    
+    .about {
+      background-color: white;
+      color: #593559;
+      font-family: Bahnschrift;
+      font-size: 20px;
+      padding: 5px;
+    }
