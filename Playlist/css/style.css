@@ -30,7 +30,7 @@ video {
       overflow: hidden;
       background-color: #593559;
     }
-    
+
     .topnav a {
       float: right;
       color: #f2f2f2;
@@ -65,9 +65,32 @@ video {
     }
     
     .about {
-      background-color: white;
-      color: #593559;
+      background-color: #593559;
+      color: white;
       font-family: Bahnschrift;
       font-size: 20px;
       padding: 5px;
+    }
+    
+    .title {
+      background-color: #593559;
+      color: white;
+      font-family: Bahnschrift;
+      font-size: 30px;
+      padding-right: 40px;
+      padding-left: 40px;
+      letter-spacing: 5px;
+      text-align: center;
+      position: absolute;
+      top: 60%;
+      left: 50%;
+      margin-right: -50%;
+      transform: translate(-50%, -50%)
+    }
+
+    .atitle {
+      letter-spacing: 5px;
+      text-align: center;
+      background-color: #D82F64;
+      padding: 10px;
     }
