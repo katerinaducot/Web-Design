@@ -60,9 +60,10 @@ video {
     }
 
     .header {
-      letter-spacing: 5px;
+      letter-spacing: 3px;
       text-align: center;
-      background-color: #D82F64;
+      background-color: white;
+      color: black;
       padding: 10px;
       font-family: 'Oswald', sans-serif;
     }
@@ -73,6 +74,7 @@ video {
       font-family: 'Oswald', sans-serif;
       font-size: 20px;
       padding: 15px;
+      letter-spacing: 1px;
     }
     
     .title {
@@ -91,9 +93,10 @@ video {
     }
 
     .atitle {
-      letter-spacing: 5px;
+      letter-spacing: 3px;
       text-align: center;
-      background-color: #D82F64;
+      background-color: white;
+      color: black;
       padding: 10px;
       font-family: 'Oswald', sans-serif;
     }
