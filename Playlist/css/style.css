@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 html {
     box-sizing: border-box;
     font-size: 20px;
@@ -23,7 +24,7 @@ video {
 }
  body {
       margin: 0;
-      font-family: Haettenschweiler;
+      font-family: 'Oswald', sans-serif;
     }
     
     .topnav {
@@ -38,7 +39,6 @@ video {
       padding: 16px 18px;
       text-decoration: none;
       font-size: 30px;
-      letter-spacing: 3px;
     }
     
     .topnav a:hover {
@@ -53,7 +53,7 @@ video {
   
     .table {
       color: white;
-      font-family: Bahnschrift;
+      font-family: 'Oswald', sans-serif;
       font-size: 20px;
     }
 
@@ -62,20 +62,20 @@ video {
       text-align: center;
       background-color: #D82F64;
       padding: 10px;
-      font-family: Bahnschrift;
+      font-family: 'Oswald', sans-serif;
     }
     
     .about {
       background-color: #593559;
       color: white;
-      font-family: Bahnschrift;
+      font-family: 'Oswald', sans-serif;
       font-size: 20px;
       padding: 15px;
     }
     
     .title {
       background-color: #593559;
-      font-family: Bahnschrift;
+      font-family: 'Oswald', sans-serif;
       font-size: 25px;
       padding-right: 40px;
       padding-left: 40px;
@@ -93,5 +93,5 @@ video {
       text-align: center;
       background-color: #D82F64;
       padding: 10px;
-      font-family: Bahnschrift;
+      font-family: 'Oswald', sans-serif;
     }
